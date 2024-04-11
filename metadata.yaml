@@ -1,0 +1,50 @@
+_repo: Pogo-Planet_73148
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bok, Hannes
+    alias: Woodard, Wayne Francis
+    birthdate: 1914
+    deathdate: 1964
+    gutenberg_agent_id: '51643'
+    url: http://www.gutenberg.org/2009/agents/51643
+    wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+creator:
+  author:
+    agent_name: Wollheim, Donald A.
+    aliases:
+    - Wollheim, Donald Allen
+    - Pearson, Martin
+    - Gordon, Millard Verne
+    - Gordon, Millard V.
+    birthdate: 1914
+    deathdate: 1990
+    gutenberg_agent_id: '36516'
+    url: http://www.gutenberg.org/2009/agents/36516
+    wikipedia: https://en.wikipedia.org/wiki/Donald_A._Wollheim
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73148'
+language: en
+pgterms:marc905: 20240225115415pearson
+pgterms:marc906: '1941'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bColumbia Publications, Inc., $c1941.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Ajax Calkins 1
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Pogo Planet
+url: http://www.gutenberg.org/ebooks/73148
