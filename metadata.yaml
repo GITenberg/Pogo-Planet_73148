@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51643'
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+covers:
+- cover_type: archival
+  image_path: 73148-h/images/cover.jpg
 creator:
   author:
     agent_name: Wollheim, Donald A.
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36516
     wikipedia: https://en.wikipedia.org/wiki/Donald_A._Wollheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73148#Pogo-Planet
 gutenberg_issued: '2024-03-11'
 gutenberg_type: Text
 identifiers:
